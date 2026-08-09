@@ -3,42 +3,42 @@
     "name": "DIGI Class",
     "repo": "aryan17129/DIGI-class",
     "logo": "cl.png",
-    "description": "AI-powered face recognition attendance system with voice authentication, built with Streamlit and MongoDB.",
+    "description": "AI-powered face recognition attendance management system with voice authentication, built using Streamlit and MongoDB.",
     "tags": ["Python", "Streamlit", "Face Recognition", "MongoDB"]
   },
   {
     "name": "HealthStack",
     "repo": "aryan17129/Healthstack",
     "logo": "logo.png",
-    "description": "Full-stack healthcare management platform with secure authentication and medical records handling.",
-    "tags": ["MERN", "Authentication", "Healthcare"]
+    "description": "Healthcare management platform focused on secure authentication and efficient management of healthcare data.",
+    "tags": ["HTML", "Healthcare", "Authentication"]
   },
   {
     "name": "Morning Basket",
     "repo": "aryan17129/MORNING",
     "logo": "op.png",
-    "description": "Full-stack MERN ecommerce platform with JWT authentication, shopping cart, and order management.",
-    "tags": ["React", "Node", "MongoDB", "Ecommerce"]
+    "description": "Full-stack MERN ecommerce platform with authentication, shopping cart, checkout and order management.",
+    "tags": ["React", "Node.js", "MongoDB", "MERN"]
   },
   {
     "name": "AIML",
     "repo": "aryan17129/AIML",
     "logo": "onetele.png",
-    "description": "AI & Machine Learning projects and experiments exploring models, notebooks, and applied techniques.",
+    "description": "Collection of Artificial Intelligence and Machine Learning projects, experiments and implementations.",
     "tags": ["Python", "AI", "Machine Learning"]
   },
   {
-    "name": "Smart Expense Tracker",
-    "repo": "aryan17129/YOUR_SMART_EXPENSE_TRACKER_REPO",
+    "name": "Pricify",
+    "repo": "aryan17129/Pricify",
     "logo": "claster.png",
-    "description": "Track expenses with an interactive dashboard.",
-    "tags": ["Dashboard", "Finance"]
+    "description": "JavaScript-based project focused on price-related functionality and web application development.",
+    "tags": ["JavaScript", "Web Development"]
   },
   {
-    "name": "Leftover Food Management System",
-    "repo": "aryan17129/YOUR_LEFTOVER_FOOD_REPO",
+    "name": "Smart Waste Management System",
+    "repo": "aryan17129/smart-waste-management-system",
     "logo": "chess.png",
-    "description": "Reducing food waste using technology.",
-    "tags": ["Web", "Sustainability"]
+    "description": "Technology-based solution designed to improve waste management and support sustainable practices.",
+    "tags": ["Python", "Web", "Sustainability"]
   }
 ]

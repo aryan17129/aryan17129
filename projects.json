@@ -1,0 +1,44 @@
+[
+  {
+    "name": "DIGI Class",
+    "repo": "aryan17129/DIGI-class",
+    "logo": "cl.png",
+    "description": "AI-powered face recognition attendance system with voice authentication, built with Streamlit and MongoDB.",
+    "tags": ["Python", "Streamlit", "Face Recognition", "MongoDB"]
+  },
+  {
+    "name": "HealthStack",
+    "repo": "aryan17129/Healthstack",
+    "logo": "logo.png",
+    "description": "Full-stack healthcare management platform with secure authentication and medical records handling.",
+    "tags": ["MERN", "Authentication", "Healthcare"]
+  },
+  {
+    "name": "Morning Basket",
+    "repo": "aryan17129/MORNING",
+    "logo": "op.png",
+    "description": "Full-stack MERN ecommerce platform with JWT authentication, shopping cart, and order management.",
+    "tags": ["React", "Node", "MongoDB", "Ecommerce"]
+  },
+  {
+    "name": "AIML",
+    "repo": "aryan17129/AIML",
+    "logo": "onetele.png",
+    "description": "AI & Machine Learning projects and experiments exploring models, notebooks, and applied techniques.",
+    "tags": ["Python", "AI", "Machine Learning"]
+  },
+  {
+    "name": "Smart Expense Tracker",
+    "repo": "aryan17129/YOUR_SMART_EXPENSE_TRACKER_REPO",
+    "logo": "claster.png",
+    "description": "Track expenses with an interactive dashboard.",
+    "tags": ["Dashboard", "Finance"]
+  },
+  {
+    "name": "Leftover Food Management System",
+    "repo": "aryan17129/YOUR_LEFTOVER_FOOD_REPO",
+    "logo": "chess.png",
+    "description": "Reducing food waste using technology.",
+    "tags": ["Web", "Sustainability"]
+  }
+]

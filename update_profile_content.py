@@ -30,10 +30,10 @@ def update_svg_profile(file_path):
 
     # y-coordinate -> (row label, value text, font-size)
     table_data = {
-        '198': ('Origin', 'YOUR_LOCATION', 14.0),
+        '198': ('Origin', 'PUNE', 14.0),
         '218': ('Education', 'B.Tech Computer Science Engineering, AISSMS Information Technology', 14.0),
         '238': ('Status', 'Building AI Products, Mastering Full Stack Development', 14.0),
-        '278': ('Company', 'YOUR_CURRENT_ROLE_OR_COMPANY', 14.0),
+        '278': ('Company', 'the one which choose me', 14.0),
         '300': ('ToolChain', 'React, Node.js, Express, MongoDB, Python, Java, JavaScript', 7.6),
         '340': ('Core.Lang', 'Python, Java, JavaScript, C++, C', 14.0),
         '360': ('Core.Frontend', 'React, Next.js, HTML, CSS, Bootstrap, Tailwind', 14.0),
@@ -41,7 +41,6 @@ def update_svg_profile(file_path):
         '400': ('Core.Database', 'MongoDB, MySQL, PostgreSQL', 14.0),
         '420': ('Core.Infra', 'Git, GitHub, Docker, Vercel', 14.0),
         '466': ('Grid.Mail', 'mailto:aryan2nannaware@gmail.com', 14.0),
-        '487': ('Grid.Portfolio', 'YOUR_PORTFOLIO_URL', 14.0),
         '508': ('Grid.LinkedIn', 'https://www.linkedin.com/in/aryan-nannaware-6243b9318/', 14.0),
         '529': ('Grid.GitHub', 'https://github.com/aryan17129', 14.0),
         '550': ('Grid.Instagram', 'https://www.instagram.com/not.aryan.n.01/', 14.0),
